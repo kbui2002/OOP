@@ -1,0 +1,4 @@
+PS D:\baitap\New folder\baitap>  d:; cd 'd:\baitap\New folder\baitap'; & 'C:\Users\Asus\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.3.7-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\ce6a1ad145907b7f2d958c5c05c2fc5e\redhat.java\jdt_ws\baitap_89901bbd\bin' 'cuoiky.bai4.TestMyCollection'
+[1, 4, 8, 11, 34, 41, 87, 99]
+[1, 4, 8, 11, 34, 41, 87, 99]
+[1, 4, 8, 11, 34, 41, 87, 99]
